@@ -1,1 +1,1 @@
-# [My portfolio](https://github.com/sooriyapsn/portfolio.me/)
+# [My portfolio](https://sooriyapsn.github.io/portfolio.me/)
